@@ -158,15 +158,11 @@ Full Stack Developer \| Computer Science Student
 
 ## ⭐ Why This Project Matters
 
-This is not a toy project.
-
 It demonstrates: - Real backend logic\
 - Real database usage\
 - Real debugging\
 - Real UI design
 
-Exactly the kind of project recruiters expect from a **junior full-stack
-developer**.
 
 ------------------------------------------------------------------------
 
