@@ -152,6 +152,7 @@ This project covers:
 ## 👨‍💻 Author
 
 **Arik Mukherjee**
+<br>
 Full Stack Developer | MSc, Computer Science
 
 ------------------------------------------------------------------------
