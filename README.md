@@ -1,4 +1,4 @@
-# 📚 BookNest -- Personal eBook Library
+# 📚 BookNest - Personal eBook Library
 
 BookNest is a full-stack **personal eBook library web application**
 built using **HTML, CSS, JavaScript, PHP, and MySQL**.\
