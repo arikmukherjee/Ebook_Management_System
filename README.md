@@ -27,18 +27,18 @@ handling, database integration, and professional UI design**.
 
 ### Frontend
 
--   HTML5\
--   CSS3\
+-   HTML5
+-   CSS3
 -   JavaScript
 
 ### Backend
 
--   PHP\
--   MySQL (MariaDB)
+-   PHP
+-   MySQL (SQL) 
 
 ### Tools
 
--   XAMPP / WAMP / LAMP\
+-   XAMPP / WAMP / LAMP
 -   phpMyAdmin
 
 ------------------------------------------------------------------------
@@ -139,28 +139,28 @@ mysqli_stmt_execute($stmt);
 
 This project covers:
 
--   Real CRUD system\
--   File upload handling\
--   PHP--MySQL integration\
--   SQL debugging\
--   Backend error handling\
--   UI/UX design\
+-   Real CRUD system
+-   File upload handling
+-   PHP--MySQL integration
+-   SQL debugging
+-   Backend error handling
+-   UI/UX design
 -   Full-stack workflow
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
 
-**Arik Mukherjee**\
-Full Stack Developer \| Computer Science Student
+**Arik Mukherjee**
+Full Stack Developer | MSc, Computer Science
 
 ------------------------------------------------------------------------
 
 ## ⭐ Why This Project Matters
 
-It demonstrates: - Real backend logic\
-- Real database usage\
-- Real debugging\
+It demonstrates: - Real backend logic
+- Real database usage
+- Real debugging
 - Real UI design
 
 ------------------------------------------------------------------------
